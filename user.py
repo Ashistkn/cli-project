@@ -16,8 +16,17 @@ COLUMNS = (
     "web",
 )      
 
+# git install
+# create a new repo in github
 # git config --global user.name "Ashish Tukanbanjar"
 # git config --global user.email "ashish.tkn2016@gmail.com"
+# git init
+
+# git add .
+# git commit -m "commit message"
+# git push origin
+
+
 
 def create_connection():
     try:
